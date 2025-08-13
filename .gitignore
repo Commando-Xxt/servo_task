@@ -1,0 +1,10 @@
+
+# Arduino / VSCode
+*.log
+*.zip
+*.tmp
+.DS_Store
+.vscode/
+.idea/
+build/
+*/build/
